@@ -1,0 +1,4 @@
+C:\Users\ayode\source\repos\Yinka.Healthprofile\obj\Debug\netcoreapp3.1\Yinka.Healthprofile.csprojAssemblyReference.cache
+C:\Users\ayode\source\repos\Yinka.Healthprofile\obj\Debug\netcoreapp3.1\Yinka.Healthprofile.AssemblyInfoInputs.cache
+C:\Users\ayode\source\repos\Yinka.Healthprofile\obj\Debug\netcoreapp3.1\Yinka.Healthprofile.AssemblyInfo.cs
+C:\Users\ayode\source\repos\Yinka.Healthprofile\obj\Debug\netcoreapp3.1\Yinka.Healthprofile.csproj.CoreCompileInputs.cache
